@@ -9,5 +9,7 @@ RDEPENDS:${PN} = " \
     procps \
     sshfs-fuse \
     strace \
+    setup-nv-boot-control \
+    tegra-uefi-capsules \
     tegra-tools-tegrastats \
 "

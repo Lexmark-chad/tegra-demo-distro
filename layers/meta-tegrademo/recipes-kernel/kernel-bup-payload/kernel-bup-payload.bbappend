@@ -1,0 +1,1 @@
+inherit digsigserver-tegra-signing
