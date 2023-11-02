@@ -18,3 +18,6 @@
 	path = repos/meta-tegra-community
 	url = https://github.com/OE4T/meta-tegra-community
 	branch = kirkstone
+[submodule "repos/meta-tegra-signing-server"]
+	path = repos/meta-tegra-signing-server
+	url = git@github.com:Lexmark-chad/meta-tegra-signing-server.git
